@@ -6,7 +6,6 @@ import { useNavigate  } from "react-router-dom";
 
 
 const EmployeeRegister = () => {
-
     
   const dispatch = useDispatch();
   const [name, setName] = useState("");
